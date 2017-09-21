@@ -47,6 +47,7 @@ we help him solve his problem and then together write either a [Standard] or a [
 - [[MO] Add a deploy script to your app](/react-native/setup/deploy-script.mo.md)
 - [[MO] Add Cocoapods to your project (~10min)](/react-native/setup/add-cocoapods.mo.md)
 - [[Article] Setup your React Native project icon](https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line)
+- [[Standard] Override an existing app](/react-native/setup/overriding-existing-app.md)
 
 ### Architecture
 - [[Standard] Project Architecture](/react-native/architecture/project-architecture.s.md)
